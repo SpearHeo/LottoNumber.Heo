@@ -29,4 +29,4 @@ function Submit(event) {
 }
 numForm.addEventListener("submit", Submit);
 
-document.body.style.backgroundImage = `url(gold.png)`;
+document.body.style.backgroundImage = `url(ohgu.jpg)`;
