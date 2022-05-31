@@ -8,7 +8,7 @@ function Submit(event) {
 
   function lotto(lottoNum) {
     var lottoNum = [];
-    for (var i = 0; i <= 6; i++) {
+    for (var i = 0; i <= 5; i++) {
       var n = Math.floor(Math.random() * 45) + 1;
 
       for (var j in lottoNum) {
