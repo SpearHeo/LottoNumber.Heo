@@ -10,4 +10,4 @@ function typing2() {
         index2 ++;
         }
 }
-setTimeout(() => setInterval(typing2, 150),2500);
+setTimeout(() => setInterval(typing2, 150),2400);
