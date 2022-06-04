@@ -26,7 +26,6 @@ function Submit(event) {
 
   greeting1.innerText = `예상 당첨 번호\n ${lotto()} `;
   greeting1.classList.remove(HIDDEN_CLASSNAME);
+  document.body.style.backgroundImage = `url(ohgu3.jpg)`;
 }
 numForm.addEventListener("submit", Submit);
-
-document.body.style.backgroundImage = `url(ohgu2.jpg)`;
