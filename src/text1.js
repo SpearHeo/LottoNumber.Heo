@@ -1,5 +1,5 @@
 "use strict";
-const content = "로또 번호 생성기 ver.4.5"
+const content = "로또 번호 생성기 ver.5"
 const text = document.querySelector(".text1")
 let index = 0;
 
